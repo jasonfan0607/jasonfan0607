@@ -1,6 +1,6 @@
-# 🪐 Hi, I'm Saber
+# 🪐 Hi, I'm jasonfan0607
 
-<img align="right" alt="Saber" width="330px" src="f38dd1ae7aee00433ecb22a7985cc351.jpg" />
+<img align="right" alt="jasonfan0607" width="330px" src="f38dd1ae7aee00433ecb22a7985cc351.jpg" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Engineering-7c3aed?style=flat-square" alt="Focus" />
@@ -9,9 +9,17 @@
   <a href="https://github.com/jasonfan0607"><img src="https://img.shields.io/github/followers/jasonfan0607?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" /></a>
 </p>
 
-> 用工程确定性对抗模型随机性，把 Agent 从 Demo 推向可运行、可观测、可协作的真实系统。
+> 中国矿业大学大二学生，兴趣方向：AI Agent / 后端开发 / 深度学习 
 
 我是一名喜欢折腾 **AI Agent / 多智能体协作 / Java 后端工程** 的开发者。相比只堆 Prompt，我更关注 Agent 背后的运行时、工具调用、Memory、状态机、工作流编排、可视化 Trace 与容错机制。最近主要在研究如何让 Agent 像软件系统一样具备稳定边界、可复现链路和可持续演进的工程结构。
+
+我也喜欢关注最新 AI 动态，尤其是那些正在从“模型能力”走向“工程落地”的方向：
+
+- **AI Agent 产品化**：从聊天助手进化为能规划、调用工具、执行任务并持续反馈的智能工作流。
+- **MCP / Tool Calling 标准化**：让 Agent 更稳定地连接文件系统、数据库、浏览器、IDE、企业系统与外部 API。
+- **Reasoning Models**：关注具备更强推理、分解任务、代码生成和复杂决策能力的新一代模型。
+- **Computer Use / GUI Agent**：让模型直接操作浏览器、桌面软件和传统系统，探索更通用的人机协作方式。
+- **多模态与端侧 AI**：关注语音、图像、视频理解，以及小模型、本地推理和隐私友好的 AI 应用形态。
 
 <br clear="right" />
 
@@ -100,7 +108,7 @@ Reliable Agent Product
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfan0607&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" height="165" />
 </p>
 
----
+<!-- ---
 
 ## 🎵 Recently Played
 
@@ -108,16 +116,17 @@ Reliable Agent Product
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
 </a>
 
----
+--- -->
 
 ## 🤝 Let's Connect
 
 如果你也在研究下面这些方向，欢迎来交流：
 
+- Vibe Coding 狂热者
 - Agent Runtime、Tool Calling、Memory、Trace 与工作流编排
-- MCP、RAG、HIL、Evaluator、Multi-Agent 协作
-- Java 后端架构、Redis 缓存、微服务与高并发系统
-- 用 AI 编程工具进行真实项目开发，而不是只停留在 Prompt 层
+- MCP、RAG、Harness、Multi-Agent 协作
+- Java 后端架构、Redis 缓存、微服务与高并发系统、数据库设计与优化
+
 
 📪 **Email**：[3896612207@qq.com](mailto:3896612207@qq.com) ｜ ⚡ **GitHub**：[@jasonfan0607](https://github.com/jasonfan0607)
 
